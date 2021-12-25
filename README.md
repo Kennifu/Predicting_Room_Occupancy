@@ -21,7 +21,8 @@ Open the "Predicting Room Occupancy" file in any format of your choice. The avai
 + Final Recommendation and Discussion
 
 **Results (spoilers!!)**: 
-A binary decision tree classifier wins by a longshot. My paper gives the numbers to show you why this is the case. 
+
+A binary decision tree classifier wins by a longshot, with only a 2% error rate on predictions compared to the other classification methods, which have about a 7% error rate.  
 
 
 
