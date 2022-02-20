@@ -20,7 +20,7 @@ Open the "Predicting Room Occupancy" file in any format of your choice. The avai
   + Binary Classification Tree
 + Final Recommendation and Discussion
 
-**Results (spoilers!!)**: 
+**Results**: 
 
 A binary decision tree classifier wins by a longshot, with only a 2% error rate on predictions compared to the other classification methods, which have about a 7% error rate.  
 
